@@ -1,5 +1,3 @@
-# crime_reporting
-
 # Online Crime Report
 The project titled as **Online Crime Report** is a web based application. This software provides facility for reporting online crimes, complaints, missing persons, show most wanted person details , show snatchers, show unidentified dead bodies, stolen vehicles as well as messaging. Any Number of clients can connect to the server. Each user first makes their login to sever to show their availability. The server can be any Web Server. 
 
